@@ -23,13 +23,6 @@ I am an Assistant Professor in the Department of Veterinary and Biomedical Scien
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <figure>
 <img src="/images/lab-values.png" style="width:100%"> 
