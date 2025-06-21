@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<div class="wordwrap">Lab manual  <a href="https://jgrembi.github.io/lab-manual"></a> - covers our communication strategy, code of conduct, laboratory safety, and best practices for reproducibility of computational workflows.
+The [Lab manual](https://jgrembi.github.io/lab-manual) - covers our communication strategy, code of conduct, laboratory safety, and best practices for reproducibility of computational workflows.
 
 
