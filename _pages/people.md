@@ -30,7 +30,7 @@ redirect_from:
 <hr style="border: 0.5px solid lightgray; margin: 20px 0;">
 <!-- Person 3 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <img src="/images/headshot_PO.jpg" alt="Person 3" style="width: 150px; height: 198px; border-radius: 50%; margin-right: 20px;">
+  <img src="/images/headshot_PO.jpg" alt="Person 3" style="width: 150px; height: 184px; border-radius: 50%; margin-right: 20px;">
   <div>
     <h3>Pablo Ochoa-Andersen</h3>
 <h4 style="margin-top: -10px; color: gray;">Lab Tech</h4>
