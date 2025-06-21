@@ -24,11 +24,10 @@ author:
   avatar           : "profile.jpg"
   name             : "Jess Grembi"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor, 
-  Veterinary and Biomedical Sciences
-  Huck Institutes for the Life Sciences"
+  bio              : "Assistant Professor"
   location         : "Penn State University"
-  employer         : "Penn State University"
+  employer         : "Veterinary and Biomedical Sciences"
+  "Huck Institutes for the Life Sciences"
   uri              : # URL
   email            : "grembi@psu.edu" 
 
