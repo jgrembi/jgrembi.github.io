@@ -7,4 +7,5 @@ date: 2020-01-29
 venue: 'Scientific Reports'
 paperurl: 'http://jgrembi.github.io/files/Grembi_2020.pdf'
 citation: '<b>Grembi JA*</b>, Nguyen LH*, Haggerty TD, Gardner CD, Holmes SP, Parsonnet J. (2020). &quot;Gut microbiota plasticity is correlated with sustained weight loss on a low-carb or low-fat dietary intervention.&quot; <i>Sci. Rep.</i>. 10(1).'
+show_excerpts: true
 ---
