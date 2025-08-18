@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: default 
 title: "Investigating associations between maternal microbiome and micronutrient status"
 permalink: /research/03_maternal_microbiota_micronutrients/
 image: /images/micronutrient-microbiota.png

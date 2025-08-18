@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: default 
 title: "Identifying altered immune function in chronically undernourished children"
 permalink: /research/04_immune_function/
 image: /images/Aim2.png

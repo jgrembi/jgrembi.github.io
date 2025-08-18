@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: default 
 title: "Evaluating immune function within the small intestine in pregnant women at high risk of environmental enteropathy"
 permalink: /research/02_immune_function_small_intestine/
 image: /images/Gates-project.png
