@@ -27,7 +27,7 @@ redirect_from:
        style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
   <div>
     <h3>Nazifa Tabassum</h3>
-    <h4 style="margin-top: -10px; color: gray;">Graduate Student</h4>
+    <h4 style="margin-top: -10px; color: gray;">PhD Student</h4>
     <p>Nazifa is a PhD student in the Molecular, Cellular, and Integrative Biosciences (MCIBS) program studying associations between maternal micronutrient status and the microbiome, with an emerging interest in the virome. She is passionate about connecting microbiome science to global health and making research accessible beyond the lab bench.</p>
   </div>
 </div>
