@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 
-Our research explores biological mechanisms underlying persistent childhood undernutrition...
+Our research explores biological mechanisms underlying persistent childhood undernutrition.  For this, we focus on the first 1000 days of a child's life, which includes _in utero_ exposures and the first two years of life after birth.
 
 ## Current Projects
 
