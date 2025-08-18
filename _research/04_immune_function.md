@@ -1,8 +1,10 @@
 ---
-layout: post 
+layout: single 
 title: "Identifying altered immune function in chronically undernourished children"
 permalink: /research/04_immune_function/
-image: /images/Aim2.png
+header:
+  overlay_image: /images/Aim2.png
+author_profile: false
 ---
 
 ## Identifying altered immune function in chronically undernourished children
