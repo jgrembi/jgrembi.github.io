@@ -38,7 +38,7 @@ redirect_from:
   <img src="/images/headshot_PO.jpg" alt="Person 3" 
        style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
   <div>
-    <h3>Pablo Ochoa-Andersen</h3>
+    <h3>Pablo "Eddie" Ochoa-Andersen</h3>
     <h4 style="margin-top: -10px; color: gray;">Lab Tech</h4>
     <p>Pablo is a lab tech at the Grembi lab. He's passionate about proteins and has plans for graduate school in the near future.</p>
   </div>
