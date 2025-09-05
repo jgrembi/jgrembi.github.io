@@ -3,6 +3,9 @@ layout: archive
 title: "News"
 permalink: /news/
 author_profile: true
+entries_layout: grid
+show_excerpts: true
+teaser: true
 ---
 
 {% include base_path %}
