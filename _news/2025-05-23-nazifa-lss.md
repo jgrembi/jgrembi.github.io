@@ -1,11 +1,16 @@
 ---
-layout: single 
 title: "Nazifa presented at the Life Sciences Symposium"
 date: 2025-05-23
 tags: [announcement]
 header:
   teaser: /images/news/LSS_May2025_NazifaPresenting.jpg
 author_profile: true
+layout: archive
+permalink: /news/
+author_profile: false
+entries_layout: grid
+show_excerpts: true
+teaser: true
 ---
 
 Today, Nazifa shared her work at the Life Sciences Symposium!  While it's always exciting to share our work and receive feedback, I'm extra proud of her accomplishments in just 5 months since joining the lab.  
