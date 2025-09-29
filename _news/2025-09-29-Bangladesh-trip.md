@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Grembi Lab's First Field Visit – Bangladesh"
-date: 2025-05-23
+date: 2025-08-14
 tags: [announcement]
 header:
   teaser: /images/news/Bangladesh_cover.jpg
