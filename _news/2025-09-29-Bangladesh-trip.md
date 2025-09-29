@@ -7,7 +7,7 @@ header:
   teaser: /images/news/Bangladesh_cover.jpg
 author_profile: true
 ---
-This summer, PI Dr. Jessica Grembi and graduate student Nazifa Tabassum traveled to Bangladesh for the lab’s first field visit. Bangladesh is one of the study sites of the Experimental Medicine Platform, funded by the Bill & Melinda Gates Foundation, which tests microbial-directed interventions and their effects on biomarkers of Environmental Enteric Dysfunction (EED) in pregnant mothers in low- and middle-income countries.
+This summer, PI Dr. Jessica Grembi and graduate student Nazifa Tabassum traveled to Bangladesh for the lab’s first field visit. Bangladesh is one of the study sites of the Experimental Medicine Platform, funded by the Gates Foundation, which tests microbial-directed interventions and their effects on biomarkers of Environmental Enteric Dysfunction (EED) in pregnant mothers in low- and middle-income countries.
 
 ![Grembi Lab in the field!](/images/news/Bangladesh_cover.JPG)
 
