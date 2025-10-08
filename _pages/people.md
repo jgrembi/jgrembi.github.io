@@ -46,12 +46,12 @@ redirect_from:
 
 <!-- Person 4 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <img src="/images/favicon.ico" alt="Person 4" 
+  <img src="/images/ED_headshot.jpg" alt="Person 4" 
        style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
   <div>
     <h3>Eliza Daigle</h3>
     <h4 style="margin-top: -10px; color: gray;">Lab Tech</h4>
-    <p>Eliza is a lab tech in the Grembi lab. She is passionate about ??? and has plans for medical school in the future.</p>
+    <p>Eliza is a lab tech in the Grembi lab. She is passionate about epidemiology, especially as it relates to preventative care, and has plans for medical school in the future.</p>
   </div>
 </div>
 
