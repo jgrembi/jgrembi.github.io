@@ -14,7 +14,7 @@ redirect_from:
   <img src="/images/profile.jpg" alt="Person 1" 
        style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
   <div>
-    <h3>Jessice Grembi</h3>
+    <h3>Jessica Grembi</h3>
     <h4 style="margin-top: -10px; color: gray;">PI</h4>
     <p>Jess is the PI of the Grembi Lab. She has travelled a non-traditional route to becoming a PI with stops along the way as a company commander in the US Army, an Appalachian Trail thru-hiker, and a global health project coordinator. She is passionate about children.... and lots of other things too! Find her CV <a href="https://jgrembi.github.io/files/JA_Grembi_CV.pdf">here</a>.</p>
   </div>
@@ -40,10 +40,20 @@ redirect_from:
   <div>
     <h3>Pablo "Eddie" Ochoa-Andersen</h3>
     <h4 style="margin-top: -10px; color: gray;">Lab Tech</h4>
-    <p>Pablo is a lab tech at the Grembi lab. He's passionate about proteins and has plans for graduate school in the near future.</p>
+    <p>Pablo is a lab tech in the Grembi lab. He's passionate about proteins and has plans for graduate school in the near future.</p>
   </div>
 </div>
 
+<!-- Person 4 -->
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <img src="/images/headshot_PO.jpg" alt="Person 3" 
+       style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
+  <div>
+    <h3>Eliza Daigle</h3>
+    <h4 style="margin-top: -10px; color: gray;">Lab Tech</h4>
+    <p>Eliza is a lab tech in the Grembi lab. She is passionate about proteins and has plans for medical school in the future.</p>
+  </div>
+</div>
 
 
 
