@@ -55,7 +55,16 @@ redirect_from:
   </div>
 </div>
 
-
+<!-- Person 5 -->
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <img src="/images/DeniseC.jpg" alt="Person 5" 
+       style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
+  <div>
+    <h3>Denise Coslo</h3>
+    <h4 style="margin-top: -10px; color: gray;">Research Technologist</h4>
+    <p> Denise is a research technologist in the Grembi lab. She has many years of experience working a lab environment and mentoring students. She is passionate about learning new scientific methods and spending time with her family.</p>
+  </div>
+</div>
 
 
 
