@@ -62,7 +62,7 @@ redirect_from:
   <div>
     <h3>Denise Coslo</h3>
     <h4 style="margin-top: -10px; color: gray;">Research Technologist</h4>
-    <p> Denise is a research technologist in the Grembi lab. She has many years of experience working a lab environment and mentoring students. She is passionate about learning new scientific methods and spending time with her family.</p>
+    <p> Denise is a research technologist in the Grembi lab. She has many years of experience working in a lab environment and mentoring students. She is passionate about learning new scientific methods and spending time with her family.</p>
   </div>
 </div>
 
