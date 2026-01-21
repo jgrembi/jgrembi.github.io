@@ -66,5 +66,17 @@ redirect_from:
   </div>
 </div>
 
+<!-- Person 6 -->
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <img src= alt="Person 1" 
+       style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
+  <div>
+    <h3>Collin Sharp</h3>
+    <h4 style="margin-top: -10px; color: gray;">Undergraduate Researcher</h4>
+    <p>Collin is an undergraduate researcher for the Grembi Lab. </p>
+  </div>
+</div>
+<hr style="border: 0.5px solid lightgray; margin: 20px 0;">
+
 
 
