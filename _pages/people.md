@@ -85,7 +85,7 @@ redirect_from:
        style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
   <div>
     <h3>Anup Bhusal</h3>
-    <h4 style="margin-top: -10px; color: gray;">PhD Student</h4>
+    <h4 style="margin-top: -10px; color: gray;">Graduate Student</h4>
     <p>Anup is a PhD student in the Pathobiology program under the department of Department of Veterinary and Biomedical Sciences.</p>
   </div>
 </div>
