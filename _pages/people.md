@@ -81,7 +81,7 @@ redirect_from:
 
 <!-- Person 7 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <img src=" " alt="Person 7" 
+  <img src=""images/Anup_pic.jpg" " alt="Person 7" 
        style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
   <div>
     <h3>Anup Bhusal</h3>
