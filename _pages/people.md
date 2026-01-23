@@ -86,7 +86,7 @@ redirect_from:
   <div>
     <h3>Anup Bhusal</h3>
     <h4 style="margin-top: -10px; color: gray;">Graduate Student</h4>
-    <p>Anup is a PhD student in the Pathobiology program under the department of Department of Veterinary and Biomedical Sciences.</p>
+    <p>Anup is a graduate student in the Pathobiology program under the Department of Veterinary and Biomedical Sciences.</p>
   </div>
 </div>
 <hr style="border: 0.5px solid lightgray; margin: 20px 0;">
