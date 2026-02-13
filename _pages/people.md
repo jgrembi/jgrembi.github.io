@@ -35,29 +35,43 @@ redirect_from:
 
 <!-- Person 3 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <img src="/images/headshot_PO.jpg" alt="Person 3" 
+  <img src="/images/Anup_cropped.jpg"  alt="Person 3" 
        style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
   <div>
-    <h3>Pablo "Eddie" Ochoa-Andersen</h3>
-    <h4 style="margin-top: -10px; color: gray;">Lab Tech</h4>
-    <p>Pablo is a lab tech in the Grembi lab. He's passionate about proteins and has plans for graduate school in the near future.</p>
+    <h3>Anup Bhusal</h3>
+    <h4 style="margin-top: -10px; color: gray;">PhD Student </h4>
+    <p>Anup is a PhD student in the Pathobiology program under the Department of Veterinary and Biomedical Sciences.</p>
   </div>
 </div>
+<hr style="border: 0.5px solid lightgray; margin: 20px 0;">
 
 <!-- Person 4 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <img src="/images/ED_headshot.jpg" alt="Person 4" 
+  <img src="/images/headshot_PO.jpg" alt="Person 4" 
        style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
   <div>
-    <h3>Eliza Daigle</h3>
-    <h4 style="margin-top: -10px; color: gray;">Lab Tech</h4>
-    <p>Eliza is a lab tech in the Grembi lab. She is passionate about epidemiology, especially as it relates to preventative care, and has plans for medical school in the future.</p>
+    <h3>Pablo "Eddie" Ochoa-Andersen</h3>
+    <h4 style="margin-top: -10px; color: gray;">Research Technologist</h4>
+    <p>Pablo is a research technologist in the Grembi lab. He's passionate about proteins and has plans for graduate school in the near future.</p>
   </div>
 </div>
 
+
+
 <!-- Person 5 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <img src="/images/DeniseC.jpg" alt="Person 5" 
+  <img src="/images/ED_headshot.jpg" alt="Person 5" 
+       style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
+  <div>
+    <h3>Eliza Daigle</h3>
+    <h4 style="margin-top: -10px; color: gray;">Research Technologist</h4>
+    <p>Eliza is a research technologist in the Grembi lab. She is passionate about epidemiology, especially as it relates to preventative care, and has plans for medical school in the future.</p>
+  </div>
+</div>
+
+<!-- Person 6 -->
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <img src="/images/DeniseC.jpg" alt="Person 6" 
        style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
   <div>
     <h3>Denise Coslo</h3>
@@ -66,9 +80,9 @@ redirect_from:
   </div>
 </div>
 
-<!-- Person 6 -->
+<!-- Person 7 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <img src= alt="Person 1" 
+  <img src="/images/collin.png" alt="Person 7" 
        style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
   <div>
     <h3>Collin Sharp</h3>
@@ -79,14 +93,14 @@ redirect_from:
 <hr style="border: 0.5px solid lightgray; margin: 20px 0;">
 
 
-<!-- Person 7 -->
+<!-- Person 8 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <img src="/images/Anup_pic.jpg"  alt="Person 7" 
+  <img src=""  alt="Person 8" 
        style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
   <div>
-    <h3>Anup Bhusal</h3>
-    <h4 style="margin-top: -10px; color: gray;">Graduate Student</h4>
-    <p>Anup is a graduate student in the Pathobiology program under the Department of Veterinary and Biomedical Sciences.</p>
+    <h3>Julie Park</h3>
+    <h4 style="margin-top: -10px; color: gray;">Undergraduate Researcher</h4>
+    <p>Julie is an undergraduate researcher majoring in Pharmacology/Toxicology.</p>
   </div>
 </div>
 <hr style="border: 0.5px solid lightgray; margin: 20px 0;">
