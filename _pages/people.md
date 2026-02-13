@@ -82,6 +82,7 @@ redirect_from:
 </div>
 <hr style="border: 0.5px solid lightgray; margin: 20px 0;">
 
+
 <!-- Person 7 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <img src="/images/collin.png" alt="Person 7" 
@@ -105,4 +106,4 @@ redirect_from:
     <p>Julie is an undergraduate researcher majoring in Pharmacology/Toxicology.</p>
   </div>
 </div>
-<hr style="border: 0.5px solid lightgray; margin: 20px 0;">
+<hr style="border: 0.5px solid lightgray; margin: 20px 0;"> 
