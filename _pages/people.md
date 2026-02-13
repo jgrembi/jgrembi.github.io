@@ -35,7 +35,7 @@ redirect_from:
 
 <!-- Person 3 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <img src="/images/Anup_cropped.jpg"  alt="Person 3" 
+  <img src="/images/HeadshotAB.jpg"  alt="Person 3" 
        style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
   <div>
     <h3>Anup Bhusal</h3>
@@ -55,7 +55,7 @@ redirect_from:
     <p>Pablo is a research technologist in the Grembi lab. He's passionate about proteins and has plans for graduate school in the near future.</p>
   </div>
 </div>
-
+<hr style="border: 0.5px solid lightgray; margin: 20px 0;">
 
 
 <!-- Person 5 -->
@@ -68,6 +68,7 @@ redirect_from:
     <p>Eliza is a research technologist in the Grembi lab. She is passionate about epidemiology, especially as it relates to preventative care, and has plans for medical school in the future.</p>
   </div>
 </div>
+<hr style="border: 0.5px solid lightgray; margin: 20px 0;">
 
 <!-- Person 6 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
@@ -79,6 +80,7 @@ redirect_from:
     <p> Denise is a research technologist in the Grembi lab. She has many years of experience working in a lab environment and mentoring students. She is passionate about learning new scientific methods and spending time with her family.</p>
   </div>
 </div>
+<hr style="border: 0.5px solid lightgray; margin: 20px 0;">
 
 <!-- Person 7 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
