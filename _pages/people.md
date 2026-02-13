@@ -104,3 +104,15 @@ redirect_from:
   </div>
 </div>
 <hr style="border: 0.5px solid lightgray; margin: 20px 0;">
+
+<!-- Person 8 -->
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <img src=""  alt="Person 8" 
+       style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
+  <div>
+    <h3>Julie Park</h3>
+    <h4 style="margin-top: -10px; color: gray;">Undergraduate Student</h4>
+    <p>Julie is an undergraduate researcher majoring in Pharmacology/Toxicology.</p>
+  </div>
+</div>
+<hr style="border: 0.5px solid lightgray; margin: 20px 0;">
