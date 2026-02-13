@@ -35,7 +35,7 @@ redirect_from:
 
 <!-- Person 3 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <img src="/images/HeadshotAB.jpg"  alt="Person 3" 
+  <img src="/images/Anup_edited.jpg"  alt="Person 3" 
        style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
   <div>
     <h3>Anup Bhusal</h3>
@@ -97,7 +97,7 @@ redirect_from:
 
 <!-- Person 8 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <img src=""  alt="Person 8" 
+  <img src="/images/Julie.jpg"  alt="Person 8" 
        style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
   <div>
     <h3>Julie Park</h3>
