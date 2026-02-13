@@ -27,7 +27,7 @@ redirect_from:
        style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
   <div>
     <h3>Nazifa Tabassum</h3>
-    <h4 style="margin-top: -10px; color: gray;">PhD Student</h4>
+    <h4 style="margin-top: -10px; color: gray;">PhD Student (Jan 2025 to present)</h4>
     <p>Nazifa is a PhD student in the Molecular, Cellular, and Integrative Biosciences (MCIBS) program studying associations between maternal micronutrient status and the microbiome, with an emerging interest in the virome. She is passionate about connecting microbiome science to global health and making research accessible beyond the lab bench.</p>
   </div>
 </div>
@@ -39,7 +39,7 @@ redirect_from:
        style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
   <div>
     <h3>Anup Bhusal</h3>
-    <h4 style="margin-top: -10px; color: gray;">PhD Student </h4>
+    <h4 style="margin-top: -10px; color: gray;">PhD Student (Jan 2026-present) </h4>
     <p>Anup is a PhD student in the Pathobiology program under the Department of Veterinary and Biomedical Sciences.</p>
   </div>
 </div>
@@ -51,12 +51,11 @@ redirect_from:
        style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
   <div>
     <h3>Pablo "Eddie" Ochoa-Andersen</h3>
-    <h4 style="margin-top: -10px; color: gray;">Research Technologist</h4>
+    <h4 style="margin-top: -10px; color: gray;">Research Technologist (March 2025- present)</h4>
     <p>Pablo is a research technologist in the Grembi lab. He's passionate about proteins and has plans for graduate school in the near future.</p>
   </div>
 </div>
 <hr style="border: 0.5px solid lightgray; margin: 20px 0;">
-
 
 <!-- Person 5 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
@@ -64,7 +63,7 @@ redirect_from:
        style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
   <div>
     <h3>Eliza Daigle</h3>
-    <h4 style="margin-top: -10px; color: gray;">Research Technologist</h4>
+    <h4 style="margin-top: -10px; color: gray;">Research Technologist (Aug 2025- present)</h4>
     <p>Eliza is a research technologist in the Grembi lab. She is passionate about epidemiology, especially as it relates to preventative care, and has plans for medical school in the future.</p>
   </div>
 </div>
@@ -76,12 +75,11 @@ redirect_from:
        style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
   <div>
     <h3>Denise Coslo</h3>
-    <h4 style="margin-top: -10px; color: gray;">Research Technologist</h4>
+    <h4 style="margin-top: -10px; color: gray;">Research Technologist (Jan 2026- present) </h4>
     <p> Denise is a research technologist in the Grembi lab. She has many years of experience working in a lab environment and mentoring students. She is passionate about learning new scientific methods and spending time with her family.</p>
   </div>
 </div>
 <hr style="border: 0.5px solid lightgray; margin: 20px 0;">
-
 
 <!-- Person 7 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
@@ -89,12 +87,11 @@ redirect_from:
        style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
   <div>
     <h3>Collin Sharp</h3>
-    <h4 style="margin-top: -10px; color: gray;">Undergraduate Researcher</h4>
+    <h4 style="margin-top: -10px; color: gray;">Undergraduate Researcher (Jan 2026-present)</h4>
     <p>Collin is an undergraduate researcher for the Grembi Lab. </p>
   </div>
 </div>
 <hr style="border: 0.5px solid lightgray; margin: 20px 0;">
-
 
 <!-- Person 8 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
@@ -102,7 +99,7 @@ redirect_from:
        style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
   <div>
     <h3>Julie Park</h3>
-    <h4 style="margin-top: -10px; color: gray;">Undergraduate Researcher</h4>
+    <h4 style="margin-top: -10px; color: gray;">Undergraduate Researcher(Jan 2026 - present)</h4>
     <p>Julie is an undergraduate researcher majoring in Pharmacology/Toxicology.</p>
   </div>
 </div>
