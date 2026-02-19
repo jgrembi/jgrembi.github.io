@@ -88,7 +88,7 @@ redirect_from:
   <div>
     <h3>Collin Sharp</h3>
     <h4 style="margin-top: -10px; color: gray;">Undergraduate Researcher (Jan 2026-present)</h4>
-    <p>Collin is an undergraduate researcher for the Grembi Lab. </p>
+    <p>Collin is an undergraduate researcher majoring in Biochemistry and Molecular Biology. </p>
   </div>
 </div>
 <hr style="border: 0.5px solid lightgray; margin: 20px 0;">
