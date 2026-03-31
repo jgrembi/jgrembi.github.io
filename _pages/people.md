@@ -104,3 +104,15 @@ redirect_from:
   </div>
 </div>
 <hr style="border: 0.5px solid lightgray; margin: 20px 0;"> 
+
+<!-- Person 9 -->
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <img src="/images/Liam.jpg"  alt="Person 9" 
+       style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
+  <div>
+    <h3>Liam Baumer</h3>
+    <h4 style="margin-top: -10px; color: gray;">Undergraduate Researcher (March 2026 - present)</h4>
+    <p>Liam is an undergraduate researcher majoring in Pharmacology and Toxicology.</p>
+  </div>
+</div>
+<hr style="border: 0.5px solid lightgray; margin: 20px 0;"> 
