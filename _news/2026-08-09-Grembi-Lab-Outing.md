@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Grembi Lab Celebrates End of Spring Semester"
+title: "Grembi Lab Celebrated End of Spring Semester"
 date: 2026-08-09
 tags: [announcement]
 header:
