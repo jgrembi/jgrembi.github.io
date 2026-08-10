@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Lab Presents at One Health Microbiome Symposium 2026"
+title: "Lab Presented at the One Health Microbiome Symposium 2026"
 date: 2026-08-09
 tags: [announcement]
 header:
