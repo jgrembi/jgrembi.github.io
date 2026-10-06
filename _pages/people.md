@@ -119,6 +119,18 @@ redirect_from:
 
 <!-- Person 10 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <img src="/images/Olivia_headshot.jpg"  alt="Person 10" 
+       style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
+  <div>
+    <h3>Olivia Gawronski</h3>
+    <h4 style="margin-top: -10px; color: gray;">Undergraduate Researcher (May 2026 - present)</h4>
+    <p>Olivia is an undergraduate researcher majoring in Veterinary and Biomedical Sciences and minoring in One Health.</p>
+  </div>
+</div>
+<hr style="border: 0.5px solid lightgray; margin: 20px 0;">
+
+<!-- Person 11 -->
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
   <img src="/images/Jenna_headshot.jpg"  alt="Person 10" 
        style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
   <div>
@@ -128,15 +140,3 @@ redirect_from:
   </div>
 </div>
 <hr style="border: 0.5px solid lightgray; margin: 20px 0;"> 
-
-<!-- Person 11 -->
-<div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <img src="/images/Olivia_headshot.jpg"  alt="Person 10" 
-       style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover;">
-  <div>
-    <h3>Olivia Gawronski</h3>
-    <h4 style="margin-top: -10px; color: gray;">Undergraduate Researcher (Jan 2026 - present)</h4>
-    <p>Olivia is an undergraduate researcher majoring in Veterinary and Biomedical Sciences and minoring in One Health.</p>
-  </div>
-</div>
-<hr style="border: 0.5px solid lightgray; margin: 20px 0;">
